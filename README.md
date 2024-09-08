@@ -1,6 +1,6 @@
-Password Manager GUI Application
+Zeus
 
-Welcome to the Password Manager GUI Application! This project is a simple and secure tool for managing your passwords. Developed using Python's Tkinter library for the graphical user interface and the cryptography.fernet module for encryption, this application offers a user-friendly experience while keeping your passwords safe.
+Welcome to 'Zeus', the Password Manager GUI Application! This project is a simple and secure tool for managing your passwords. Developed using Python's Tkinter library for the graphical user interface and the cryptography.fernet module for encryption, this application offers a user-friendly experience while keeping your passwords safe.
 
 Features
 Store Passwords: Save your passwords securely with encryption.
